@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, sans-serif;
+    text-align: center;
+}
+
+.content{
+    margin-top: 100px;
+    display: block;
+    text-align: center;
+}
+
+.content img {
+    width: 350px;
+}
+
+a {
+    margin-top: 100px;
+    font-size: 30px;
+}
